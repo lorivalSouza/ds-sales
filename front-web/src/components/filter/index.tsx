@@ -51,7 +51,7 @@ function Filter({ onFilterChange }: Props) {
           <option value=""></option>
           <option value="MALE">Masculino</option>
           <option value="FEMALE">Feminino</option>
-          <option value="OTHER">Não declarado</option>
+          <option value="OTHER">Outros</option>
         </select>
       </div>
     </>
